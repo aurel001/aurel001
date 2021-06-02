@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @aurel001
+- 👀 I’m interested in coding , music and hijabi fashion 
+- 🌱 I’m currently learning Data Science and Machine Learning (ML)
+- 💞️ I’m looking to collaborate on web designing and program testing 
+- 📫 How to reach me :
+    - email : aurelli01@hotmail.com
+    - Contra : DIAZ AURELLI SALSABILA
+    - instagram : @freesia912001
+    - linkedin : https://www.linkedin.com/in/diaz-aurelli-salsabila-309192157/
+
+- Studying in Asia Pacific University in Malaysia
+- Currently an intern at Data Glacier
+- Based in Doha , Qatar
