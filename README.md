@@ -9,5 +9,4 @@
     - linkedin : https://www.linkedin.com/in/diaz-aurelli-salsabila-309192157/
 
 - Studying in Asia Pacific University in Malaysia
-- Currently an intern at Data Glacier
 - Based in Doha , Qatar
